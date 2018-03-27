@@ -22,6 +22,7 @@ function maybeTrue() {
 }
  
 
+<<<<<<< HEAD
 function doWhileLoop(array) {
 
   do {
@@ -35,3 +36,12 @@ function doWhileLoop(array) {
 
   return array;
 }
+=======
+function doWhileLoop(array){
+}
+
+do {
+  console.log('doo-bee-doo-bee-doo')
+} while (maybeTrue());
+
+>>>>>>> 49cdc59e5bb187fc39d723ea29884cd1aac7fb3a
